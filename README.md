@@ -6,10 +6,10 @@ Genesis
 Harry Potter
 
 
-Game of Thrones
-
-
 Naked Statistics
+
+
+Game of Thrones
 
 
 Fundamentals of Computer Graphics 
