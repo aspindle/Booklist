@@ -1,4 +1,4 @@
-#### 📚 Booklist: Please Read Responsibly.
+#### 📚 Booklist: Read Responsibly.
  
 Fundamentals of Computer Graphics 
 
