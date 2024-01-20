@@ -1,6 +1,7 @@
 #### 📚 Booklist: Read Responsibly.
- 
 Fundamentals of Computer Graphics 
+
+Dune (Movie Tie-In not the Original)
 
 Game of Thrones
 
@@ -12,4 +13,3 @@ Harry Potter
 
 Genesis
 
-Dune
